@@ -40,8 +40,3 @@
 <img src="https://img.shields.io/badge/instagram:  evangeline.olivia-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 
-<br>
-<p align="right"> <h3>Profile Views :-</h3> 
-  <img src="https://komarev.com/ghpvc/?username=evangelineoliviaa&label=Profile%20views&color=0e75b6&style=flat"
-    alt="evangelineoliviaa" /> 
-  </p>
