@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 - :school: I am a `Senior` at [Faculty of Electrical Engineering & Computer Science](https://eecs-gs.site.nthu.edu.tw/) at [國立清華大學 National Tsing Hua University Taiwan](https://nthu-en.site.nthu.edu.tw/).
-- :student: I’m currently learning `UI/UX (User Interface/User Experience)` design.
+- :student: I’m currently learning `UI/UX (User Interface/User Experience)` and `Project Management`.
 - :book: I love `learning new things`.
 - :nerd_face: I’m currently open for a `job opportunity`.
 
