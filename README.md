@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 - :school: I am a `Senior` at [Faculty of Electrical Engineering & Computer Science](https://eecs-gs.site.nthu.edu.tw/) at [國立清華大學 National Tsing Hua University Taiwan](https://nthu-en.site.nthu.edu.tw/).
-- :student: I’m currently learning `UI/UX (User Interface/User Experience)` and `Project Management`.
+- :student: I’m currently learning `UI/UX (User Interface/User Experience)`, `Project Management` and `SQL`.
 - :book: I love `learning new things`.
 - :nerd_face: I’m currently open for a `job opportunity`.
 
@@ -34,9 +34,5 @@
 
 <a href="https://www.linkedin.com/in/evangelineolivia/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  evangelineolivia-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-
-<a href="https://www.instagram.com/evangeline.olivia/?hl=en" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  evangeline.olivia-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 
